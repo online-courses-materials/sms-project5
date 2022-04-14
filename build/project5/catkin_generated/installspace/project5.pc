@@ -1,8 +1,0 @@
-prefix=/home/ros/catkin_ws/project5_ws/install
-
-Name: project5
-Description: Description of project5
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: 
