@@ -6,7 +6,7 @@ ros@ubuntu:~/catkin_ws$ mkdir project5_ws
 ros@ubuntu:~/catkin_ws$ cd project5_ws/
 ros@ubuntu:~/catkin_ws/project5_ws$ mkdir src
 ros@ubuntu:~/catkin_ws/project5_ws$ cd src
-ros@ubuntu:~/catkin_ws/project5_ws/src$ catkin_create_pkg project4 roscpp
+ros@ubuntu:~/catkin_ws/project5_ws/src$ catkin_create_pkg project5 roscpp
 Created file project5/package.xml
 Created file project5/CMakeLists.txt
 Created folder project5/include/project5
